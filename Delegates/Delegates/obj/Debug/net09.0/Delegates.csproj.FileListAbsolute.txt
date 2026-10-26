@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\ООП\Delegates\Delegates\bin\Debug\net09.0\Delegates.exe
+C:\Users\1\Desktop\ООП\Delegates\Delegates\bin\Debug\net09.0\Delegates.deps.json
+C:\Users\1\Desktop\ООП\Delegates\Delegates\bin\Debug\net09.0\Delegates.runtimeconfig.json
+C:\Users\1\Desktop\ООП\Delegates\Delegates\bin\Debug\net09.0\Delegates.dll
+C:\Users\1\Desktop\ООП\Delegates\Delegates\bin\Debug\net09.0\Delegates.pdb
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.AssemblyInfo.cs
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.dll
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\refint\Delegates.dll
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.pdb
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.genruntimeconfig.cache
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\ref\Delegates.dll
+C:\Users\1\Desktop\ООП\Delegates\Delegates\obj\Debug\net09.0\Delegates.csproj.Up2Date
