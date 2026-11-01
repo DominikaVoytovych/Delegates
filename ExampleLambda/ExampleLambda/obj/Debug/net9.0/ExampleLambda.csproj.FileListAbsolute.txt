@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\bin\Debug\net9.0\ExampleLambda.exe
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\bin\Debug\net9.0\ExampleLambda.deps.json
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\bin\Debug\net9.0\ExampleLambda.runtimeconfig.json
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\bin\Debug\net9.0\ExampleLambda.dll
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\bin\Debug\net9.0\ExampleLambda.pdb
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.AssemblyInfo.cs
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.sourcelink.json
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.dll
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\refint\ExampleLambda.dll
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.pdb
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleLambda.genruntimeconfig.cache
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ref\ExampleLambda.dll
+C:\Users\1\Desktop\ООП\ExampleLambda\ExampleLambda\obj\Debug\net9.0\ExampleL.ED9A41C1.Up2Date
